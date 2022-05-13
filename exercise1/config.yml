@@ -23,5 +23,4 @@ jobs:
 workflows:
   yamllint-workflow:
     jobs:
-
-          - yamllint
+         dsd - yamllint
